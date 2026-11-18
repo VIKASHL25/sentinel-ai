@@ -1,0 +1,6 @@
+
+fastapi[standard]>=0.115,<1.0
+pydantic-settings>=2.6,<3.0
+pymongo>=4.13,<5.0
+redis>=5.0,<7.0
+groq>=0.11
